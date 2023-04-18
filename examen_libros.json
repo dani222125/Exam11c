@@ -1,0 +1,21 @@
+[{
+  "_id": "1",
+  "title": "El libro de la selva",
+  "autor": "Rudyard Kipling"
+},{
+  "_id": 2,
+  "title": "Harry potter",
+  "autor": "Joanne Rowling"
+},{
+  "_id": 3,
+  "title": "La isla misteriosa",
+  "autor": "Julio Verne"
+},{
+  "_id": 4,
+  "title": "El principito",
+  "autor": "Antonie de Saint-Exupery"
+},{
+  "_id": 5,
+  "title": "Cien años de soledad",
+  "autor": "Gabriel Garcia Marquez"
+}]
